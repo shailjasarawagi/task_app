@@ -13,7 +13,7 @@
     "recharts": "^2.12.7",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://{github-shailjasarawagi}.github.io/{task_app}",
+  "homepage": "http://shailjasarawagi.github.io/task_app",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
